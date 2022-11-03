@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# NFT Contract deployed using Quicknode RPC
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+contract address 0x311660F63887e4e2DD816D2Af5fAa4A5eFe27a92  deployed on goerli test network.
 
-Try running some of the following tasks:
+Contract interaction tx hash: 0xf3d89c4a5e6521647663fcf3c6af4f68bb0ccd3d57bb41e2b64e7e9d846de0df
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+https://goerli.etherscan.io/tx/0xf3d89c4a5e6521647663fcf3c6af4f68bb0ccd3d57bb41e2b64e7e9d846de0df
+
